@@ -1,6 +1,6 @@
 # pifm
 
-Apenas clonar, e colocar a antena no GPIO4 Pino 7 do Raspberry
+Apenas clonar executar o chmox +x pifm, e colocar a antena no GPIO4 Pino 7 do Raspberry
 
 Para executar: ./pifm arquivo_wav frequencia sample_rate
 
